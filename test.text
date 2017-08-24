@@ -1,17 +1,6 @@
 
 DATE(1)                   BSD General Commands Manual                  DATE(1)
 
-NNAAMMEE
-     ddaattee -- display or set date and time
-
-SSYYNNOOPPSSIISS
-     ddaattee [--jjRRuu] [--rr _s_e_c_o_n_d_s | _f_i_l_e_n_a_m_e] [--vv [++|--]_v_a_l[_y_m_w_d_H_M_S]] _._._.
-          [++_o_u_t_p_u_t___f_m_t]
-     ddaattee [--jjnnuu] [[[_m_m]_d_d]_H_H]_M_M[[_c_c]_y_y][_._s_s]
-     ddaattee [--jjnnRRuu] --ff _i_n_p_u_t___f_m_t _n_e_w___d_a_t_e [++_o_u_t_p_u_t___f_m_t]
-     ddaattee [--dd _d_s_t] [--tt _m_i_n_u_t_e_s___w_e_s_t]
-
-DDEESSCCRRIIPPTTIIOONN
      When invoked without arguments, the ddaattee utility displays the current
      date and time.  Otherwise, depending on the options specified, ddaattee will
      set the date and time or print it in a user-defined way.
@@ -275,3 +264,14 @@ BSD                               May 7, 2015                              BSD
 
 
 CHANGES at 19:19 PM
+
+
+adding some new code
+
+
+adding more lines
+>>>>>>>>>>>>>>>>>>
+.
+
+
+CHANGES at 19:24 PM
